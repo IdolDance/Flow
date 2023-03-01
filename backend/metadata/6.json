@@ -1,0 +1,28 @@
+{
+    "name":"KrumpKings-sSet-66-(Old-Website)-2",
+    "title":"LegendsOfKrump",
+    "description":"Battle for existence",
+    "image":"ipfs//QmZqF4PxcvtobxCGQfhd9iJp4pujAmUiNQGA8hqTzew7jD/Set-66-(Old-Website)-2.jpg",
+    "properties": {
+        "rarity": "very rare",
+        "fanciness": 8
+    },
+    "attributes": [
+        {
+          "trait_type": "Total Stacey",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Cartridge",
+          "value": "Atomic Pink"
+        },
+        {
+          "trait_type": "Label Color",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Label",
+          "value": "Stacey"
+        }
+      ]
+}
